@@ -28,11 +28,11 @@ displayMode = "dark"
 
 [languages]
   [languages.en]
-    title = "Home"
+    title = "Zilberto Junior | home"
     languageName = "English"
     weight = 1
   [languages.ptbr]
-    title = "Inicio"
+    title = "Zilberto Junior | Inicio"
     languageName = "Portugues"
     weight = 2
 
@@ -86,7 +86,7 @@ url = "mailto:zjunior06@pixelexperience.org"
   url = "/en/about/"
   
   [[languages.ptbr.menu.main]]
-  url    = "/ptbr/"
+  url = "/ptbr/"
   identifier = "home"
   name   = "Inicio"
   weight = 100
