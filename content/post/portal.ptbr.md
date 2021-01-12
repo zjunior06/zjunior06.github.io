@@ -1,6 +1,7 @@
 +++
 title = "Meu portal de downloads"
 author = "Zilberto Junior"
+translationKey: "post"
 date = "2021-01-11"
 aliases = ["posts"]
 +++ 
