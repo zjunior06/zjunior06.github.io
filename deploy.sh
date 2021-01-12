@@ -14,7 +14,7 @@ git submodule update --remote --merge
 
 git add .
 
-git commit -s -m "[JoeyCI]: Update source"
+git commit -s -m "[CI]: Update source"
 
 git push origin source
 
@@ -26,7 +26,7 @@ git checkout master
 
 git add .
 
-msg="[JoeyCI]: Deploy site $(date)"
+msg="[CI]: Deploy site $(date)"
 if [ -n "$*" ]; then
 	msg="$*"
 fi
