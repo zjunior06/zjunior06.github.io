@@ -1,7 +1,7 @@
 +++
 title = "Sobre Mim"
 description = "Sobre Mim"
-translationKey: "about"
+translationKey = "about"
 aliases = ["about-me"]
 +++
 
