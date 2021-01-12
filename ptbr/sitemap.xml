@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://zjunior06.tech/ptbr/about/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zjunior06.tech/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ptbr"
+                href="https://zjunior06.tech/ptbr/about/"
+                />
+  </url>
+  
+  <url>
     <loc>https://zjunior06.tech/ptbr/post/portal/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
     <xhtml:link
