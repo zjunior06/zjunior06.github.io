@@ -63,30 +63,6 @@ url = "mailto:zjunior06@pixelexperience.org"
 
 [menu]
 
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
-
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
-
-  [[menu.main]]
-  name = "PixelExperience"
-  weight = 300
-  identifier = "pixelexperience"
-  url = "https://download.pixelexperience.org/team/zjunior06"
- 
-  [[menu.main]]
-  name = "About"
-  weight = 400
-  identifier = "about"
-  url = "/about/"
-
   [[Languages.ptbr.menu.main]]
   url = "/ptbr/"
   identifier = "home"
@@ -100,8 +76,14 @@ url = "mailto:zjunior06@pixelexperience.org"
   url = "/ptbr/post/"
 
   [[Languages.ptbr.menu.main]]
-  name = "Sobre"
+  name = "PixelExperience"
   weight = 300
+  identifier = "pixelexperience"
+  url = "https://download.pixelexperience.org/team/zjunior06"
+  
+  [[Languages.ptbr.menu.main]]
+  name = "Sobre"
+  weight = 400
   identifier = "about"
   url = "/ptbr/about/"
 
@@ -118,7 +100,13 @@ url = "mailto:zjunior06@pixelexperience.org"
   url = "/en/post/"
 
   [[Languages.en.menu.main]]
-  name = "About"
+  name = "PixelExperience"
   weight = 300
+  identifier = "pixelexperience"
+  url = "https://download.pixelexperience.org/team/zjunior06"
+  
+  [[Languages.en.menu.main]]
+  name = "About"
+  weight = 400
   identifier = "about"
   url = "/en/about/"
