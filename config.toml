@@ -82,7 +82,7 @@ url = "mailto:zjunior06@pixelexperience.org"
   [[languages.en.menu.main]]
   name = "About"
   weight = 400
-  identifier = "about"
+  identifier = "about-me"
   url = "/en/about/"
   
   [[languages.ptbr.menu.main]]
@@ -106,5 +106,5 @@ url = "mailto:zjunior06@pixelexperience.org"
   [[languages.ptbr.menu.main]]
   name = "Sobre"
   weight = 400
-  identifier = "about"
+  identifier = "about-me"
   url = "/ptbr/about/"
