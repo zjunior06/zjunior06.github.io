@@ -2,7 +2,7 @@ baseURL = "https://zjunior06.tech"
 languageCode = "en"
 defaultContentLanguage = "en"
 theme = "anatole"
-summarylength = 10
+summarylength = 15
 enableEmoji = true
 enableRobotsTXT = true
 
