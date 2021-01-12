@@ -52,11 +52,6 @@ icon = "fab fa-telegram"
 title = "Telegram"
 url = "https://t.me/zjunior06"
 
-[[params.socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:zjunior06@pixelexperience.org"
-
 ## Menu items
 
 [menu]
