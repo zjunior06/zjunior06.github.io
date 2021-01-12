@@ -1,5 +1,5 @@
 +++
-translationKey: "my-first-post"
+translationKey = "my-first-post"
 author = "Zilberto Junior"
 date = "2021-01-11"
 +++ 
