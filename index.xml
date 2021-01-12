@@ -6,19 +6,10 @@
     <description>Recent content on Zilberto Junior | home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zjunior06.tech/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About Me</title>
-      <link>https://zjunior06.tech/about/</link>
-      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://zjunior06.tech/about/</guid>
-      <description>Hello there! 👋 This is Zilberto Junior, and I&amp;rsquo;m popularly known around the internet as zjunior06.</description>
-    </item>
     
     <item>
       <title>My downloads portal</title>
@@ -36,6 +27,15 @@
       
       <guid>https://zjunior06.tech/archives/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://zjunior06.tech/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjunior06.tech/about/</guid>
+      <description>Hello there! 👋 This is Zilberto Junior, and I&amp;rsquo;m popularly known around the internet as zjunior06.</description>
     </item>
     
   </channel>
