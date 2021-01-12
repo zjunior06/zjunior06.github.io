@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zilberto Junior | inicio</title>
+    <link>https://zjunior06.tech/ptbr/</link>
+    <description>Recent content on Zilberto Junior | inicio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zjunior06.tech/ptbr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://zjunior06.tech/ptbr/post/portal/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjunior06.tech/ptbr/post/portal/</guid>
+      <description>Hello there! 👋 Se estiver interessado em baixar todos os meus arquivos de ROMs, pode encontrá-los facilmente em: https://download.</description>
+    </item>
+    
+  </channel>
+</rss>

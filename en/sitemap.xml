@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://zjunior06.tech/en/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ptbr"
+                href="https://zjunior06.tech/ptbr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zjunior06.tech/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zjunior06.tech/en/post/portal/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ptbr"
+                href="https://zjunior06.tech/ptbr/post/portal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zjunior06.tech/en/post/portal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zjunior06.tech/en/about/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjunior06.tech/en/post/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ptbr"
+                href="https://zjunior06.tech/ptbr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zjunior06.tech/en/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zjunior06.tech/en/archives/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zjunior06.tech/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ptbr"
+                href="https://zjunior06.tech/ptbr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zjunior06.tech/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zjunior06.tech/en/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjunior06.tech/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ptbr"
+                href="https://zjunior06.tech/ptbr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zjunior06.tech/en/tags/"
+                />
+  </url>
+  
+</urlset>
