@@ -1,6 +1,7 @@
 baseURL = "https://zjunior06.tech"
 languageCode = "en"
 DefaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 title = "Zilberto Junior | Home"
 theme = "anatole"
 summarylength = 10
@@ -14,11 +15,11 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "zjunior06"
+title = "Zilberto Junior"
 author = "Zilberto Junior"
 copyright = "2020-2021"
 description = "Welcome to my website :P"
-profilePicture = "https://avatars0.githubusercontent.com/u/25695219?v=4"
+profilePicture = "https://avatars3.githubusercontent.com/u/48398637?s=460&u=ddf4aec72b79d50a9f37ca1dc5b7444c1940f966&v=4"
 keywords = ""
 favicon = "favicons/"
 customCss = []
@@ -26,6 +27,16 @@ customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 displayMode = "dark"
+
+[languages]
+  [languages.en]
+    title = "Zilberto Junior | home"
+    languageName = "English"
+    weight = 1
+  [languages.ptbr]
+    title = "Zilberto Junior | inicio"
+    languageName = "Portugues"
+    weight = 2
 
 ## Math settings
 [params.math]
