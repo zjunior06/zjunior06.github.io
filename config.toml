@@ -1,7 +1,7 @@
-baseURL = "https://itsjoeoui.com"
+baseURL = "https://zjunior06.tech"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "itsjoeoui | Home"
+title = "Zilberto Junior | Home"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -14,10 +14,10 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "itsjoeoui"
-author = "Joey Yu"
+title = "zjunior06"
+author = "Zilberto Junior"
 copyright = "2020-2021"
-description = "Welcome to my website :)"
+description = "Welcome to my website :P"
 profilePicture = "https://avatars0.githubusercontent.com/u/25695219?v=4"
 keywords = ""
 favicon = "favicons/"
@@ -36,27 +36,17 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/itsjoeoui"
+url = "https://github.com/zjunior06"
 
 [[params.socialIcons]]
 icon = "fab fa-telegram"
 title = "Telegram"
-url = "https://t.me/itsjoeoui"
-
-[[params.socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/itsjoeoui"
-
-[[params.socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://www.linkedin.com/in/itsjoeoui"
+url = "https://t.me/zjunior06"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:idkwhoiam@itsjoeoui.com"
+url = "mailto:zjunior06@pixelexperience.org"
 
 ## Menu items
 
@@ -78,7 +68,7 @@ url = "mailto:idkwhoiam@itsjoeoui.com"
   name = "PixelExperience"
   weight = 300
   identifier = "pixelexperience"
-  url = "https://download.pixelexperience.org/team/itsjoeoui"
+  url = "https://download.pixelexperience.org/team/zjunior06"
  
   [[menu.main]]
   name = "About"
