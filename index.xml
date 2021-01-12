@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zilberto Junior | Home</title>
+    <title>Zilberto Junior | home</title>
     <link>https://zjunior06.tech/</link>
-    <description>Recent content on Zilberto Junior | Home</description>
+    <description>Recent content on Zilberto Junior | home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
@@ -18,6 +18,15 @@
       
       <guid>https://zjunior06.tech/about/</guid>
       <description>Hello there! 👋 This is Zilberto Junior, and I&amp;rsquo;m popularly known around the internet as zjunior06.</description>
+    </item>
+    
+    <item>
+      <title>My downloads portal</title>
+      <link>https://zjunior06.tech/post/portal/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjunior06.tech/post/portal/</guid>
+      <description>Hello there! 👋 If you interested in download my CustomROMs file, you can found it in: https://download.</description>
     </item>
     
     <item>

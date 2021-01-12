@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Zilberto Junior | Home</title>
+    <title>Posts on Zilberto Junior | home</title>
     <link>https://zjunior06.tech/post/</link>
-    <description>Recent content in Posts on Zilberto Junior | Home</description>
+    <description>Recent content in Posts on Zilberto Junior | home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zjunior06.tech/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My downloads portal</title>
+      <link>https://zjunior06.tech/post/portal/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjunior06.tech/post/portal/</guid>
+      <description>Hello there! 👋 If you interested in download my CustomROMs file, you can found it in: https://download.</description>
+    </item>
     
   </channel>
 </rss>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zjunior06.tech/en/</loc>
+    <loc>https://zjunior06.tech/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -13,12 +13,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zjunior06.tech/en/"
+                href="https://zjunior06.tech/"
                 />
   </url>
   
   <url>
-    <loc>https://zjunior06.tech/en/about/</loc>
+    <loc>https://zjunior06.tech/about/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -28,12 +28,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zjunior06.tech/en/about/"
+                href="https://zjunior06.tech/about/"
                 />
   </url>
   
   <url>
-    <loc>https://zjunior06.tech/en/post/portal/</loc>
+    <loc>https://zjunior06.tech/post/portal/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -43,12 +43,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zjunior06.tech/en/post/portal/"
+                href="https://zjunior06.tech/post/portal/"
                 />
   </url>
   
   <url>
-    <loc>https://zjunior06.tech/en/post/</loc>
+    <loc>https://zjunior06.tech/post/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -58,17 +58,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zjunior06.tech/en/post/"
+                href="https://zjunior06.tech/post/"
                 />
   </url>
   
   <url>
-    <loc>https://zjunior06.tech/en/archives/</loc>
+    <loc>https://zjunior06.tech/archives/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zjunior06.tech/en/categories/</loc>
+    <loc>https://zjunior06.tech/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ptbr"
@@ -77,16 +77,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zjunior06.tech/en/categories/"
+                href="https://zjunior06.tech/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://zjunior06.tech/en/tags/index/</loc>
+    <loc>https://zjunior06.tech/tags/index/</loc>
   </url>
   
   <url>
-    <loc>https://zjunior06.tech/en/tags/</loc>
+    <loc>https://zjunior06.tech/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ptbr"
@@ -95,7 +95,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zjunior06.tech/en/tags/"
+                href="https://zjunior06.tech/tags/"
                 />
   </url>
   
