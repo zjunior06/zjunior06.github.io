@@ -88,7 +88,7 @@ url = "mailto:zjunior06@pixelexperience.org"
   url = "/about/"
 
   [[Languages.ptbr.menu.main]]
-  url    = "/ptbr/"
+  url = "/ptbr/"
   identifier = "home"
   name   = "Inicio"
   weight = 100
@@ -105,8 +105,8 @@ url = "mailto:zjunior06@pixelexperience.org"
   identifier = "about"
   url = "/ptbr/about/"
 
-    [[Languages.en.menu.main]]
-  url    = "/en/"
+  [[Languages.en.menu.main]]
+  url = "/en/"
   identifier = "home"
   name   = "Home"
   weight = 100
