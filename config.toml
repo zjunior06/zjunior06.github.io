@@ -86,3 +86,21 @@ url = "mailto:zjunior06@pixelexperience.org"
   weight = 400
   identifier = "about"
   url = "/about/"
+
+  [[Languages.ptbr.menu.main]]
+  url    = "/ptbr/"
+  identifier = "home"
+  name   = "Inicio"
+  weight = 100
+
+  [[Languages.ptbr.menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/ptbr/post/"
+
+  [[Languages.prbr.menu.main]]
+  name = "Sobre"
+  weight = 300
+  identifier = "about"
+  url = "/ptbr/about/"
