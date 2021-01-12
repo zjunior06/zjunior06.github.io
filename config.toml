@@ -66,13 +66,13 @@ url = "mailto:zjunior06@pixelexperience.org"
   name = "Home"
   identifier = "home"
   weight = 100
-  url = "/en/"
+  url = "/"
 
   [[languages.en.menu.main]]
   name = "Posts"
   weight = 200
   identifier = "posts"
-  url = "/en/post/"
+  url = "/post/"
 
   [[languages.en.menu.main]]
   name = "PixelExperience"
@@ -84,7 +84,7 @@ url = "mailto:zjunior06@pixelexperience.org"
   name = "About"
   weight = 400
   identifier = "about-me"
-  url = "/en/about/"
+  url = "/about/"
   
   [[languages.ptbr.menu.main]]
   url = "/ptbr/"
