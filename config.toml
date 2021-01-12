@@ -15,7 +15,6 @@ enableRobotsTXT = true
 [params]
 author = "Zilberto Junior"
 copyright = "2020-2021"
-description = "Welcome to my website :P"
 profilePicture = "https://avatars3.githubusercontent.com/u/48398637?s=460&u=ddf4aec72b79d50a9f37ca1dc5b7444c1940f966&v=4"
 keywords = ""
 favicon = "favicons/"
@@ -28,10 +27,12 @@ displayMode = "dark"
 [languages]
   [languages.en]
     title = "Zilberto Junior | home"
+    description = "Welcome to my website :P"
     languageName = "English"
     weight = 1
   [languages.ptbr]
-    title = "Zilberto Junior | Inicio"
+    title = "Zilberto Junior | inicio"
+    description = "Bem vindo(a) ao meu site :P"
     languageName = "Portugues"
     weight = 2
 
