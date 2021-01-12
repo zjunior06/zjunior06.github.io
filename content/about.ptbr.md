@@ -3,7 +3,6 @@ title = "Sobre Mim"
 description = "Sobre Mim"
 date = "2021-01-11"
 aliases = ["about-me"]
-translationKey = "about-me"
 author = "Zlberto Junior"
 +++
 
