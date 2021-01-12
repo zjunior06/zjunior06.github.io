@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://zjunior06.tech/en/about/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zjunior06.tech/en/post/portal/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -30,11 +35,6 @@
                 hreflang="en"
                 href="https://zjunior06.tech/en/post/portal/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://zjunior06.tech/en/about/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
