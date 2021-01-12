@@ -1,16 +1,10 @@
 baseURL = "https://zjunior06.tech"
 languageCode = "en"
 defaultContentLanguage = "en"
-theme = "toha"
+theme = "anatole"
 summarylength = 15
 enableEmoji = true
 enableRobotsTXT = true
-
-# Enable Disqus
-#disqusShortname = "itsjoeoui"
-
-# Google Analytics
-#googleAnalytics = "UA-123-45"
 
 [params]
 author = "Zilberto Junior"
