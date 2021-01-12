@@ -1,7 +1,7 @@
 baseURL = "https://zjunior06.tech"
 languageCode = "en"
+title = "Zilberto Junior | home"
 DefaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -86,7 +86,7 @@ url = "mailto:zjunior06@pixelexperience.org"
   url = "/ptbr/about/"
 
   [[Languages.en.menu.main]]
-  url = "/en/"
+  url = "/"
   identifier = "home"
   name   = "Home"
   weight = 100
