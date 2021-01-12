@@ -18,7 +18,7 @@ copyright = "2020-2021"
 profilePicture = "https://avatars3.githubusercontent.com/u/48398637?s=460&u=ddf4aec72b79d50a9f37ca1dc5b7444c1940f966&v=4"
 keywords = ""
 favicon = "favicons/"
-customCss = ["css/*.css"]
+customCss = []
 customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
