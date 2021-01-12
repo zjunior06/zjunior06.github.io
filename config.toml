@@ -1,4 +1,6 @@
 baseURL = "https://zjunior06.tech"
+languageCode = "en"
+defaultContentLanguage = "en"
 title = "Zilberto Junior | home"
 theme = "anatole"
 summarylength = 10
@@ -59,25 +61,25 @@ url = "mailto:zjunior06@pixelexperience.org"
 
 [menu]
 
-  [[menu.main]]
+  [[Languages.en.menu.main]]
   name = "Home"
   identifier = "home"
   weight = 100
   url = "/"
 
-  [[menu.main]]
+  [[Languages.en.menu.main]]
   name = "Posts"
   weight = 200
   identifier = "posts"
   url = "/post/"
 
-  [[menu.main]]
+  [[Languages.en.menu.main]]
   name = "PixelExperience"
   weight = 300
   identifier = "pixelexperience"
   url = "https://download.pixelexperience.org/team/zjunior06"
  
-  [[menu.main]]
+  [[Languages.en.menu.main]]
   name = "About"
   weight = 400
   identifier = "about"
