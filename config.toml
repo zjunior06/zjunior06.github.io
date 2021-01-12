@@ -1,111 +1,44 @@
-baseURL = "https://zjunior06.tech"
-languageCode = "en"
-defaultContentLanguage = "en"
-theme = "anatole"
-summarylength = 15
-enableEmoji = true
-enableRobotsTXT = true
+baseURL: https://zjunior06.tech
 
-# Enable Disqus
-#disqusShortname = "itsjoeoui"
+languageCode: en-us
+theme: "toha"
 
-# Google Analytics
-#googleAnalytics = "UA-123-45"
-
-[params]
-author = "Zilberto Junior"
-copyright = "2020-2021"
-profilePicture = "https://avatars3.githubusercontent.com/u/48398637?s=460&u=ddf4aec72b79d50a9f37ca1dc5b7444c1940f966&v=4"
-keywords = ""
-favicon = "favicons/"
-customCss = []
-customJs = []
-mainSections = ["post"]
-images = ["images/site-feature-image.png"]
-displayMode = "dark"
-
+# Manage languages
+# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
-    title = "Zilberto Junior | home"
-    description = "Welcome to my website :P"
+    baseURL = "https://zjunior06.tech"
     languageName = "English"
-    weight = 1
-  [languages.ptbr]
-    title = "Zilberto Junior | inicio"
-    description = "Bem vindo(a) ao meu site :P"
-    languageName = "Portugues"
+    title = "Zilberto Junior | Home"
     weight = 2
+  [languages.ptbr]
+    baseURL = "https://zjunior06.tech/ptbr/"
+    languageName = "Portugues"
+    title = "Zilberto Junior | Inicio"
+    weight = 1
 
-## Math settings
-[params.math]
-enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
-use = "katex"  # options: "katex", "mathjax". default is "katex".
+# Control TOC depth
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
 
-## Social links
-[[params.socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/zjunior06"
+# Enable global emoji support
+enableEmoji: true
 
-[[params.socialIcons]]
-icon = "fab fa-telegram"
-title = "Telegram"
-url = "https://t.me/zjunior06"
+# Site parameters
+params:
+  # GitHub repo URL of your site
+  gitRepo: https://github.com/zjunior06/zjunior06.github.io
 
-[[params.socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:zjunior06@pixelexperience.org"
+  # specify whether you want to write some blog posts or not
+  enableBlogPost: true
 
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: true
 
-## Menu items
-
-[menu]
-
-  [[languages.en.menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
-
-  [[languages.en.menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
-
-  [[languages.en.menu.main]]
-  name = "PixelExperience"
-  weight = 300
-  identifier = "pixelexperience"
-  url = "https://download.pixelexperience.org/team/zjunior06"
- 
-  [[languages.en.menu.main]]
-  name = "About"
-  weight = 400
-  identifier = "about-me"
-  url = "/about/"
-  
-  [[languages.ptbr.menu.main]]
-  url = "/ptbr/"
-  identifier = "home"
-  name   = "Inicio"
-  weight = 100
-
-  [[languages.ptbr.menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/ptbr/post/"
-
-  [[languages.ptbr.menu.main]]
-  name = "PixelExperience"
-  weight = 300
-  identifier = "pixelexperience"
-  url = "https://download.pixelexperience.org/team/zjunior06"
-  
-  [[languages.ptbr.menu.main]]
-  name = "Sobre"
-  weight = 400
-  identifier = "about-me"
-  url = "/ptbr/about/"
+  # Provide newsletter configuration. This feature hasn't been implemented yet.
+  # Currently, you can just hide it from the footer.
+  newsletter:
+    enable: true
