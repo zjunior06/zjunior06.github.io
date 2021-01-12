@@ -16,7 +16,7 @@ git add .
 
 git commit -s -m "[CI]: Update source"
 
-git push origin source
+git push -f origin source
 
 hugo -t anatole -d "${BASEDIR}/master/"
 
@@ -32,4 +32,4 @@ if [ -n "$*" ]; then
 fi
 git commit -s -m "$msg"
 
-git push origin master
+git push -f origin master
