@@ -1,9 +1,7 @@
 +++
 title = "About Me"
 description = "About me"
-date = "2021-01-11"
 aliases = ["about-me"]
-author = "Zlberto Junior"
 +++
 
 ### Hello there! 👋

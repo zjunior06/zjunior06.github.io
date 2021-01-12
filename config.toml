@@ -1,7 +1,6 @@
 baseURL = "https://zjunior06.tech"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Zilberto Junior | home"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -14,7 +13,6 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "Zilberto Junior"
 author = "Zilberto Junior"
 copyright = "2020-2021"
 description = "Welcome to my website :P"
