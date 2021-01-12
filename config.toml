@@ -28,11 +28,11 @@ displayMode = "dark"
 
 [languages]
   [languages.en]
-    title = "Zilberto Junior | home"
+    title = "Home"
     languageName = "English"
     weight = 1
   [languages.ptbr]
-    title = "Zilberto Junior | inicio"
+    title = "Inicio"
     languageName = "Portugues"
     weight = 2
 
